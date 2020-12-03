@@ -337,7 +337,7 @@ table{
       justify-content: center;
       align-items: center;
       margin-top: 4%;
-      margin-left: 2%;
+      margin-left: 4%;
       font-family: Montserrat;
       font-size: 15px;
       
@@ -352,7 +352,7 @@ table{
       justify-content: center;
       align-items: center;
       margin-top: 120%;
-      margin-left: 2%;
+      margin-left: 4%;
       color: hsl(240, 78%, 98%);
       font-family: Montserrat;
       font-size: 18px;
@@ -367,7 +367,7 @@ table{
           justify-content: center;
           align-items: center;
           margin-top: 255%;
-          margin-left: 2%;
+          margin-left: 4%;
           font-family: Montserrat;
           font-size: 18px;
       
