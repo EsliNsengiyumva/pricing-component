@@ -131,6 +131,30 @@ body{
 }
 
 
+.btnView-div3{
+  position: absolute;
+  width: 240px;
+  height: 35px;    
+  margin-top:20px;
+  margin-left: 13%;
+  color:hsl(236, 72%, 79%);
+  
+  border:1px solid  hsl(240, 78%, 98%);
+  background-color: hsl(240, 78%, 98%);
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px 5px 5px 5px;
+  
+}
+.btnView-div3:hover{
+border:1px solid  hsl(240, 78%, 98%);
+border-radius: 5px 5px 5px 5px;
+color:hsl(240, 78%, 98%);
+background-color:  hsl(237, 63%, 64%);
+
+}
+
+
 table{
     justify-content: center;
     align-items: center;
@@ -337,7 +361,7 @@ table{
       justify-content: center;
       align-items: center;
       margin-top: 4%;
-      margin-left: 4%;
+      margin-left: 6%;
       font-family: Montserrat;
       font-size: 15px;
       
@@ -352,7 +376,7 @@ table{
       justify-content: center;
       align-items: center;
       margin-top: 120%;
-      margin-left: 4%;
+      margin-left: 6%;
       color: hsl(240, 78%, 98%);
       font-family: Montserrat;
       font-size: 18px;
@@ -361,19 +385,34 @@ table{
     .div3{
           position: absolute;
           width: 320px;
-          height: 440px;   
+          height: 480px;   
           background: hsl(240, 78%, 98%);
           border-radius: 0 8px 8px 0;
           justify-content: center;
           align-items: center;
           margin-top: 255%;
-          margin-left: 4%;
+          margin-left: 6%;
           font-family: Montserrat;
           font-size: 18px;
       
     }
 
-   
-
+    .btnView-div3{
+      position: absolute;
+      width: 240px;
+      height: 35px;    
+      margin-top:20px;
+      margin-left: 13%;
+      color:hsl(240, 78%, 98%);
+      
+      border:1px solid  hsl(240, 78%, 98%);
+      background-color:  hsl(236, 72%, 79%);
+      justify-content: center;
+      align-items: center;
+      border-radius: 5px 5px 5px 5px;
+      margin-top: 30px;
+      cursor: pointer;
+    }
+     
 
   }
